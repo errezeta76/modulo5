@@ -1,0 +1,37 @@
+#contenedor { 
+    background-color: #F1FFFA;
+    height: 750px;
+    width: 850px;
+}
+#menu {
+    background-color: greenyellow;
+    height: 750px;
+    width: 290px;
+    display: inline-block
+}
+#contenido {
+    background-color: orange;
+    height: 750px;
+    width: 550px;
+    display: inline-block;
+}
+#foto{
+    background-color: blanchedalmond;
+    height: 100px;
+    width: 290px;
+}
+#m1 {
+    background-color: #D5C7BC;
+    height: 200px;
+    width: 290px;
+}
+#m2 {
+    background-color: #E0D5CD;
+    height: 200px;
+    width: 290px;
+}
+#m3 {
+    background-color: #EFEAE6;
+    height: 200px;
+    width: 290px;
+}
