@@ -17,21 +17,32 @@
 }
 #foto{
     background-color: blanchedalmond;
-    height: 100px;
+    height: 150px;
     width: 290px;
+}
+#foto1{ 
+    background-color: #E29A28;
+    height: 150px;
+    width: 100px;
+
 }
 #m1 {
     background-color: #D5C7BC;
-    height: 200px;
+    height: 300px;
     width: 290px;
 }
 #m2 {
     background-color: #E0D5CD;
-    height: 200px;
+    height: 150px;
     width: 290px;
 }
 #m3 {
     background-color: #EFEAE6;
-    height: 200px;
+    height: 100px;
+    width: 290px;
+}
+#m4 {
+    background-color: #EBFFF8;
+    height: 50px;
     width: 290px;
 }
