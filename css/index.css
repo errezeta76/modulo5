@@ -7,42 +7,123 @@
     background-color: greenyellow;
     height: 750px;
     width: 290px;
-    display: inline-block
+    display: inline-block;
+    vertical-align: top;
 }
 #contenido {
     background-color: orange;
     height: 750px;
     width: 550px;
     display: inline-block;
+    vertical-align: top;
 }
-#foto{
+#foto {
     background-color: blanchedalmond;
-    height: 150px;
+    height: 120px;
     width: 290px;
+    display: inline-block;
+    vertical-align: top;
 }
-#foto1{ 
+#foto1 { 
     background-color: #E29A28;
-    height: 150px;
-    width: 100px;
-
-}
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;   
+    top: 20px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    
+    }
+#foto2 { 
+    background-color: yellowgreen;
+    height:120px;
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+    }
 #m1 {
-    background-color: #D5C7BC;
-    height: 300px;
+    background-color: #EFEAE6;
+    height: 100px;
     width: 290px;
+    border: 1px solid black;
+    
 }
 #m2 {
     background-color: #E0D5CD;
-    height: 150px;
+    height: 100px;
     width: 290px;
+    border: 1px solid black;
 }
 #m3 {
     background-color: #EFEAE6;
     height: 100px;
     width: 290px;
+    border: 1px solid black;
 }
 #m4 {
     background-color: #EBFFF8;
-    height: 50px;
+    height: 100px;
     width: 290px;
+    border: 1px solid black;
 }
+.cont1 {
+    background-color: cornflowerblue;
+    height: 170px;
+    width: 540px;
+    border: 1px solid black;
+    text-align: center;
+
+} 
+.cont2 {
+    background-color: cornflowerblue;
+    height: 170px;
+    width: 540px;
+    border: 1px solid black;
+    text-align: center;
+
+} 
+.separadores {
+   background-color: teal;
+   height: 99%;
+   width: 49%;
+   display: inline-block;
+   vertical-align: top;
+   }
+   
+   .sepcont1 {
+       background-color: wheat;
+       height: 99%;
+       width: 28%;
+       display: inline-block;
+       vertical-align: top;
+   }
+   .sepcont2 {
+       background-color: wheat;
+       height: 99%;
+       width: 13%;
+       display: inline-block;
+       vertical-align: top;
+   }
+   .sepcont_med {
+       background-color: skyblue;
+       height: 48%;
+       width: 95%;
+       vertical-align: top;
+       border: 1px  solid white;
+    }
+
+    /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
